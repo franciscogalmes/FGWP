@@ -13,3 +13,15 @@ input{
 .Titulo-intermedio{
     color: rgb(216, 32, 32);
 }
+
+#element{
+    color: blueviolet;
+}
+
+[rancio="si"]{
+    color: rgb(216, 32, 32);
+}
+
+h1:hover{
+    color :blue;
+}
