@@ -25,3 +25,53 @@ input{
 h1:hover{
     color :blue;
 }
+
+.contact-form__input:first-child {
+    color:blue;
+}
+
+.contact-form__input {
+    color:red;
+}
+
+.suscriber-form__input{
+    color: aqua;
+}
+
+.receiver-form__input{
+    color: brown;
+}
+
+.receiver-form__p-input {
+    color: blueviolet;
+}
+
+.contact-form
+ {
+    font-size: 150px;
+}
+
+.contact-form__input
+{
+    font-size: 1em;
+}
+
+
+/*Todos tienen este estilo, estoy normalizando*/
+*{ 
+    font-family: 'Lobster', cursive;
+    font-weight: 100;
+
+}
+h1{
+    font-size: 25px;
+    background-color: rgb(131, 134, 134);
+    width: 100vw;
+}
+
+.Prueba_de_letras {
+font-size: 2em;
+font-family: 'sans-serif';
+font-weight: normal;
+color:red;
+}
